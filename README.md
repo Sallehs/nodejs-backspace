@@ -1,1 +1,1 @@
-# nodejs-backspace
+# AWS Elastic Beanstalk NodeJS application template
